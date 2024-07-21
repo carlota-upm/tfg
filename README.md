@@ -97,9 +97,9 @@ Here are some examples of the plots you can generate:
     </td>
   </tr>
   <tr>
-    <td style="text-align:center;">30 epochs</td>
-    <td style="text-align:center;">50 epochs</td>
-    <td style="text-align:center;">100 epochs</td>
+    <td style="text-align:center;"> 30 epochs </td>
+    <td style="text-align:center;"> 50 epochs </td>
+    <td style="text-align:center;"> 100 epochs </td>
   </tr>
 </table>
 
