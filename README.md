@@ -128,6 +128,8 @@ Here are some examples of the plots from the Allais Paradox you can generate:
 |:---:|:---:|:---:|
 | 30 epochs | 50 epochs | 100 epochs |
 
+Similarly can be done with Ellsberg Paradox
+
 ## 🤝 Contributing
 
 We welcome contributions! Please feel free to submit a pull request or open an issue.
