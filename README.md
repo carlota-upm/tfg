@@ -78,18 +78,23 @@ Here are some examples of the plots you can generate:
 ### Inconsistencies Plot
 
 <div style="display: flex; justify-content: space-around;">
+<center>
+    <h4>
+        Inconsistencies Plot of the Allais Paradox varying the dataset size
+    </h4>
   <figure>
-    <img src="/epochs/epochs_30/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="Inconsistencies" width="300" />
+    <img src="/epochs/epochs_30/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="30 epochs" width="250" />
     <figcaption>30 epochs</figcaption>
   </figure>
   <figure>
-    <img src="/epochs/epochs_50/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="Risk" width="300" />
+    <img src="/epochs/epochs_50/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="50 epochs" width="250" />
     <figcaption>50 epochs</figcaption>
   </figure>
   <figure>
-    <img src="/epochs/epochs_100/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="Selection" width="300" />
+    <img src="/epochs/epochs_100/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="100 epochs" width="2500" />
     <figcaption>100 epochs</figcaption>
   </figure>
+</center>
 </div>
 
 ### Risk Plot
