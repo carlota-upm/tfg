@@ -72,7 +72,7 @@ We provide functions to visualize the different results from where we can draw c
 
 ## 📷 Visualization Examples
 
-Here are some examples of the plots you can generate:
+Here are some examples of the plots from the Allais Paradox you can generate:
 
 ### Inconsistencies Plot
 
