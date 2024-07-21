@@ -66,7 +66,6 @@ This function can be altered to train models for different datasets and neural n
 
 The `result` function generates results based on various parameters. It outputs a CSV file with the results.
 
-
 ### 📈 Plotting Functions
 
 We provide functions to visualize the different results from where we can draw conclusions.  We decided to plot the inconsistencies, risk, and selection plots as we believe they are the most relevant to the analysis of the Allais and Ellsberg Paradoxes.
@@ -77,13 +76,13 @@ Here are some examples of the plots you can generate:
 
 ### Inconsistencies Plot
 
-<u> Inconsistencies Plot of the Allais Paradox varying the Dataset Size </u>
+- Inconsistencies Plot of the Allais Paradox varying the Dataset Size
 
 | ![30 epochs](/epochs/epochs_30/images/allais/inconsistencies_plot_dataset_size_allais.png) | ![50 epochs](/epochs/epochs_50/images/allais/inconsistencies_plot_dataset_size_allais.png) | ![100 epochs](/epochs/epochs_100/images/allais/inconsistencies_plot_dataset_size_allais.png) |
 |:---:|:---:|:---:|
 | 30 epochs | 50 epochs | 100 epochs |
 
-<u> Inconsistencies Plot of the Allais Paradox varying the Model Complexity </u>
+- Inconsistencies Plot of the Allais Paradox varying the Model Complexity 
 
 | ![30 epochs](/epochs/epochs_30/images/allais/inconsistencies_plot_model_complexity_allais.png) | ![50 epochs](/epochs/epochs_50/images/allais/inconsistencies_plot_model_complexity_allais.png) | ![100 epochs](/epochs/epochs_100/images/allais/inconsistencies_plot_model_complexity_allais.png) |
 |:---:|:---:|:---:|
@@ -91,34 +90,34 @@ Here are some examples of the plots you can generate:
 
 ### Risk Aversion Plot
 
-<u> Risk Aversion Plot of the Allais Paradox varying the Dataset Size </u>
+- Risk Aversion Plot of the Allais Paradox varying the Dataset Size 
 | ![30 epochs](/epochs/epochs_30/images/allais/risk_aversion_plot_dataset_size_allais.png) | ![50 epochs](/epochs/epochs_50/images/allais/risk_plot_dataset_size_allais.png) | ![100 epochs](/epochs/epochs_100/images/allais/risk_plot_dataset_size_allais.png) |
 |:---:|:---:|:---:|
 | 30 epochs | 50 epochs | 100 epochs |
 
-<u> Risk Aversion Plot of the Allais Paradox varying the Model Complexity </u>
+- Risk Aversion Plot of the Allais Paradox varying the Model Complexity
 | ![30 epochs](/epochs/epochs_30/images/allais/risk_aversion_plot_model_complexity_allais.png) | ![50 epochs](/epochs/epochs_50/images/allais/risk_plot_model_complexity_allais.png) | ![100 epochs](/epochs/epochs_100/images/allais/risk_plot_model_complexity_allais.png) |
 |:---:|:---:|:---:|
 | 30 epochs | 50 epochs | 100 epochs |
 
 ### Selection Plot
 
-<u> Selection Plot for Experiment 1 varying the Dataset Size </u>
+- Selection Plot for Experiment 1 varying the Dataset Size 
 | ![30 epochs](/epochs/epochs_30/images/allais/experiment1_selections_dataset_size_allais.png) | ![50 epochs](/epochs/epochs_50/images/allais/experiment1_selections_dataset_size_allais.png) | ![100 epochs](/epochs/epochs_100/images/allais/experiment1_selections_dataset_size_allais.png) |
 |:---:|:---:|:---:|
 | 30 epochs | 50 epochs | 100 epochs |
 
-<u> Selection Plot for Experiment 2 varying the Dataset Size </u>
+- Selection Plot for Experiment 2 varying the Dataset Size
 | ![30 epochs](/epochs/epochs_30/images/allais/experiment2_selections_dataset_size_allais.png) | ![50 epochs](/epochs/epochs_50/images/allais/experiment2_selections_dataset_size_allais.png) | ![100 epochs](/epochs/epochs_100/images/allais/experiment2_selections_dataset_size_allais.png) |
 |:---:|:---:|:---:|
 | 30 epochs | 50 epochs | 100 epochs |
 
-<u> Selection Plot for Experiment 1 varying the Model Complexity </u>
+- Selection Plot for Experiment 1 varying the Model Complexity 
 | ![30 epochs](/epochs/epochs_30/images/allais/experiment1_selections_model_complexity_allais.png) | ![50 epochs](/epochs/epochs_50/images/allais/experiment1_selections_model_complexity_allais.png) | ![100 epochs](/epochs/epochs_100/images/allais/experiment1_selections_model_complexity_allais.png) |
 |:---:|:---:|:---:|
 | 30 epochs | 50 epochs | 100 epochs |
 
-<u> Selection Plot for Experiment 2 varying the Model Complexity </u>
+- Selection Plot for Experiment 2 varying the Model Complexity 
 | ![30 epochs](/epochs/epochs_30/images/allais/experiment2_selections_model_complexity_allais.png) | ![50 epochs](/epochs/epochs_50/images/allais/experiment2_selections_model_complexity_allais.png) | ![100 epochs](/epochs/epochs_100/images/allais/experiment2_selections_model_complexity_allais.png) |
 |:---:|:---:|:---:|
 | 30 epochs | 50 epochs | 100 epochs |
