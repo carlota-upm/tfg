@@ -77,24 +77,26 @@ Here are some examples of the plots you can generate:
 
 ### Inconsistencies Plot
 
-<div style="display: flex; justify-content: space-around;">
-<centering>
-    <h4>
-        Inconsistencies Plot of the Allais Paradox varying the dataset size
+## 📷 Visualization Examples
+
+<div style="display: flex; justify-content: center; text-align: center; flex-direction: column; align-items: center;">
+    <h4 style="text-decoration: underline;">
+        Inconsistencies Plot of the Allais Paradox Varying the Dataset Size
     </h4>
-  <figure>
-    <img src="/epochs/epochs_30/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="30 epochs" width="250" />
-    <figcaption>30 epochs</figcaption>
-  </figure>
-  <figure>
-    <img src="/epochs/epochs_50/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="50 epochs" width="250" />
-    <figcaption>50 epochs</figcaption>
-  </figure>
-  <figure>
-    <img src="/epochs/epochs_100/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="100 epochs" width="250" />
-    <figcaption>100 epochs</figcaption>
-  </figure>
-</centering>
+    <div style="display: flex; justify-content: space-around; width: 100%;">
+      <figure style="text-align: center;">
+        <img src="/epochs/epochs_30/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="30 epochs" width="250" />
+        <figcaption style="margin-top: 10px;">30 epochs</figcaption>
+      </figure>
+      <figure style="text-align: center;">
+        <img src="/epochs/epochs_50/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="50 epochs" width="250" />
+        <figcaption style="margin-top: 10px;">50 epochs</figcaption>
+      </figure>
+      <figure style="text-align: center;">
+        <img src="/epochs/epochs_100/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="100 epochs" width="250" />
+        <figcaption style="margin-top: 10px;">100 epochs</figcaption>
+      </figure>
+    </div>
 </div>
 
 ### Risk Plot
