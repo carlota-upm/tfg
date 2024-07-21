@@ -79,15 +79,15 @@ Here are some examples of the plots you can generate:
 
 <div style="display: flex; justify-content: space-around;">
   <figure>
-    <img src="/Users/carlota/Desktop/epochs/epochs_30/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="Inconsistencies" width="300" />
+    <img src="/epochs/epochs_30/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="Inconsistencies" width="300" />
     <figcaption>30 epochs</figcaption>
   </figure>
   <figure>
-    <img src="/Users/carlota/Desktop/epochs/epochs_50/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="Risk" width="300" />
+    <img src="/epochs/epochs_50/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="Risk" width="300" />
     <figcaption>50 epochs</figcaption>
   </figure>
   <figure>
-    <img src="/Users/carlota/Desktop/epochs/epochs_100/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="Selection" width="300" />
+    <img src="/epochs/epochs_100/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="Selection" width="300" />
     <figcaption>100 epochs</figcaption>
   </figure>
 </div>
