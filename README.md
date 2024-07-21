@@ -2,6 +2,16 @@
 
 Welcome to the repository for our framework of neural network utility functions, designed to analyze and predict outcomes based on behavioral data. To visualise the utility of our framework, we focus on two primary examples: **Allais** and **Ellsberg** Paradoxes.
 
+## 🔍 Overview
+
+- [Overview](#-overview)
+- [Getting Started](#-getting-started)
+- [Code Explanation](#-code-explanation)
+- [Visualization Examples](#-visualization-examples)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
+  
 ## 🚀 Getting Started
 
 ### Dependencies
