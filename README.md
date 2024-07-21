@@ -78,30 +78,11 @@ Here are some examples of the plots you can generate:
 ### Inconsistencies Plot
 
 ## 📷 Visualization Examples
-
-<table>
-  <tr>
-    <th colspan="3" style="text-align:center; text-decoration: underline;">
-      Inconsistencies Plot of the Allais Paradox Varying the Dataset Size
-    </th>
-  </tr>
-  <tr>
-    <td style="text-align:center;">
-      <img src="/epochs/epochs_30/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="30 epochs" width="250" />
-    </td>
-    <td style="text-align:center;">
-      <img src="/epochs/epochs_50/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="50 epochs" width="250" />
-    </td>
-    <td style="text-align:center;">
-      <img src="/epochs/epochs_100/images/allais/inconsistencies_plot_dataset_size_allais.png" alt="100 epochs" width="250" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"> 30 epochs </td>
-    <td style="text-align:center;"> 50 epochs </td>
-    <td style="text-align:center;"> 100 epochs </td>
-  </tr>
-</table>
+  
+|  <u>Inconsistencies Plot of the Allais Paradox Varying the Dataset Size</u> |
+| :---:         |     :---:      |          :---:  |
+| ![30_epochs](/epochs/epochs_30/images/allais/inconsistencies_plot_dataset_size_allais.png)   | ![50_epochs](/epochs/epochs_50/images/allais/inconsistencies_plot_dataset_size_allais.png)     | ![100_epochs](/epochs/epochs_100/images/allais/inconsistencies_plot_dataset_size_allais.png)    |
+| 30 epochs     | 50 epochs      | 100 epochs      |
 
 ### Risk Plot
 ![Risk](path_to_risk_image)
