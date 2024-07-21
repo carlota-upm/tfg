@@ -92,12 +92,12 @@ Here are some examples of the plots you can generate:
 ### Risk Aversion Plot
 
 <u> Risk Aversion Plot of the Allais Paradox varying the Dataset Size </u>
-| ![30 epochs](/epochs/epochs_30/images/allais/risk_aversion_plot_dataset_size_allais.png) | ![50 epochs](/epochs/epochs_50/images/allais/risk_aversion_plot_dataset_size_allais.png) | ![100 epochs](/epochs/epochs_100/images/allais/risk_aversion_plot_dataset_size_allais.png) |
+| ![30 epochs](/epochs/epochs_30/images/allais/risk_aversion_plot_dataset_size_allais.png) | ![50 epochs](/epochs/epochs_50/images/allais/risk_plot_dataset_size_allais.png) | ![100 epochs](/epochs/epochs_100/images/allais/risk_plot_dataset_size_allais.png) |
 |:---:|:---:|:---:|
 | 30 epochs | 50 epochs | 100 epochs |
 
 <u> Risk Aversion Plot of the Allais Paradox varying the Model Complexity </u>
-| ![30 epochs](/epochs_30/images/allais/risk_aversion_plot_model_complexity_allais.png) | ![50 epochs](/epochs_50/images/allais/risk_aversion_plot_model_complexity_allais.png) | ![100 epochs](/epochs_100/images/allais/risk_aversion_plot_model_complexity_allais.png) |
+| ![30 epochs](/epochs_30/images/allais/risk_aversion_plot_model_complexity_allais.png) | ![50 epochs](/epochs_50/images/allais/risk_plot_model_complexity_allais.png) | ![100 epochs](/epochs_100/images/allais/risk_plot_model_complexity_allais.png) |
 |:---:|:---:|:---:|
 | 30 epochs | 50 epochs | 100 epochs |
 
