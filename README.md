@@ -142,4 +142,4 @@ doms and thus, everyone can use this work as they want.
 
 ## 📞 Contact
 
-Feel free to reach out if you have any questions or suggestions. Happy coding! 💻✨
+Feel free to reach out if you have any questions or suggestions.
