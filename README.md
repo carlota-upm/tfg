@@ -78,10 +78,13 @@ Here are some examples of the plots you can generate:
 ### Inconsistencies Plot
 
 <u> Inconsistencies Plot of the Allais Paradox varying the Dataset Size </u>
+
 | ![30 epochs](/epochs/epochs_30/images/allais/inconsistencies_plot_dataset_size_allais.png) | ![50 epochs](/epochs/epochs_50/images/allais/inconsistencies_plot_dataset_size_allais.png) | ![100 epochs](/epochs/epochs_100/images/allais/inconsistencies_plot_dataset_size_allais.png) |
+|:---:|:---:|:---:|
 | 30 epochs | 50 epochs | 100 epochs |
 
 <u> Inconsistencies Plot of the Allais Paradox varying the Model Complexity </u>
+
 | ![30 epochs](/epochs/epochs_30/images/allais/inconsistencies_plot_model_complexity_allais.png) | ![50 epochs](/epochs/epochs_50/images/allais/inconsistencies_plot_model_complexity_allais.png) | ![100 epochs](/epochs/epochs_100/images/allais/inconsistencies_plot_model_complexity_allais.png) |
 | 30 epochs | 50 epochs | 100 epochs |
 
